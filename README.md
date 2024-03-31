@@ -1,5 +1,5 @@
 
-# Mads The Personal Desktop Assistant
+# Mads The Personal Desktop Assistant☆
 
 Mads is a langchain agent, that uses multiple tools to create and carry out numerous functions. 
 
