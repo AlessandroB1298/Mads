@@ -6,6 +6,9 @@ Mads is a langchain agent, that uses multiple tools to create and carry out nume
 
 
 
+<img width="1440" alt="Screenshot 2024-03-30 at 10 31 11 PM" src="https://github.com/AlessandroB1298/Mads/assets/98426727/ca85511c-581e-4f3c-8bf6-3b3d3d85ced3">
+
+
 ## Installation
 
 Install mads by cloning this repo
